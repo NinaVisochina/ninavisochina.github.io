@@ -97,7 +97,7 @@ main {
 }
 
 .elem {
-  width: 15vw;
+  width: 300px;
   margin: 10px;
   height: fit-content;
   border: 1px solid gray;
